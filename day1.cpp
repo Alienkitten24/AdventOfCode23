@@ -92,7 +92,7 @@ int main () {
     }
 
     std::cout << p1_sum << "\n";
-    std::cout << p2_sum <<;
+    std::cout << p2_sum;
 
     return 0;
 }
